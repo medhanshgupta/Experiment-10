@@ -1,4 +1,5 @@
-## Aim:  Study of Pandas library
+#Medhansh Gupta
+# Aim:  Study of Pandas library
 
 ## Theory: 
 Pandas is an essential, open-source Python library for data analysis and manipulation.    
